@@ -23,9 +23,7 @@ Note, version 1 will only stay in "timer set" mode after the
 timer finishes running (hypothetically, 
 red LED will turn on, off, on and then stay on.
 
-FIXME: mode button doesn't seem to switch from the 
-timer mode to set mode--does seem to start in set mode on 
-board reset, however.
+
 */
 
 int RED = 2;
